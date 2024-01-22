@@ -1,4 +1,4 @@
-# Project Health and Fitness Tracker
+# Fitness Tracker
 
 The health and fitness tracker provides the User with the luxury of closely monitoring their exercises, diet plan, and sleep. These monitors allow the user to track specific nutrient values, the required amount of sleep they need, and reach out to the help of their trainer. 
 
